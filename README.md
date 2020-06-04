@@ -1,3 +1,2 @@
 # hello-world
-Prueba
-Make and commit changes...
+My first repo!
